@@ -27,6 +27,4 @@
 </div><br />
 
 <!-- [<img src="https://github-readme-stats.vercel.app/api?username=imntps&show_icons=true&theme=dark&count_private=true&hide_border=1"/>](https://github-readme-stats.vercel.app/api?username=imntps&show_icons=true)  -->
-#### GitHub Stats
-[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imntps&layout=compact&theme=dark&count_private=true&"/>](https://github-readme-stats.vercel.app/api/top-langs?username=imntps&layout=compact)
 
